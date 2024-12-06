@@ -13,7 +13,6 @@ export default function Driver() {
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
         <div className="mb-8 md:mb-0">
           <Image src={Publicar} alt="Sample Image" className="rounded-lg mt-8" width={500} height={350} data-aos="zoom-x-out"/>
-
         </div>
         <div>
           <h2 className="text-4xl font-extrabold text-gray-800 mb-4">Únete y comparte</h2>
